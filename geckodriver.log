@@ -1,0 +1,47 @@
+1599514847332	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5gI7vB"
+1599514847999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599514848000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599514848000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599514848000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 165424, tid 165424, syscall 315, args 165424 140033415203136 56 0 10 140033415203136.
+Sandbox: seccomp sandbox violation: pid 165440, tid 165440, syscall 315, args 165440 140157900044864 56 0 10 140157900044864.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://cc55b460-bd0d-43a2-9418-fff8e66d5f0e/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1599514850373	Marionette	INFO	Listening on port 39795
+1599514850446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sacola.americanas.com.br/simple-basket/cage-2.0.1.html?outputID=1, line 39: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://sacola.americanas.com.br/simple-basket/cage-2.0.1.html?outputID=1, line 39: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1599514885565	Marionette	INFO	Stopped listening on port 39795
+1599514890703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu5hHIl"
+1599514891281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599514891282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599514891282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599514891282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 165706, tid 165706, syscall 315, args 165706 139741360572736 56 0 10 139741360572736.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+Sandbox: seccomp sandbox violation: pid 165722, tid 165722, syscall 315, args 165722 139736812044480 56 0 10 139736812044480.
+JavaScript error: moz-extension://d22ec5b8-6708-404b-b591-74a7d1b0e07a/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1599514893616	Marionette	INFO	Listening on port 41251
+1599514893711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sacola.americanas.com.br/simple-basket/cage-2.0.1.html?outputID=1, line 39: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://sacola.americanas.com.br/simple-basket/cage-2.0.1.html?outputID=1, line 39: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://sacola.americanas.com.br/simple-basket/cage-2.0.1.html?outputID=1, line 37: Error: Forbidden
+1599514928884	Marionette	INFO	Stopped listening on port 41251
+1599514933682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletKpu2j"
+1599514934312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599514934312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599514934313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599514934313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 165988, tid 165988, syscall 315, args 165988 140165141997888 56 0 10 140165141997888.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+Sandbox: seccomp sandbox violation: pid 166004, tid 166004, syscall 315, args 166004 139802851656256 56 0 10 139802851656256.
+JavaScript error: moz-extension://21cdacb6-f368-4277-9412-9df3a5741447/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1599514936652	Marionette	INFO	Listening on port 36841
+1599514936697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sacola.americanas.com.br/simple-basket/cage-2.0.1.html?outputID=1, line 39: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://sacola.americanas.com.br/simple-basket/cage-2.0.1.html?outputID=1, line 39: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://sacola.americanas.com.br/simple-basket/cage-2.0.1.html?outputID=1, line 37: Error: Forbidden
+1599514976151	Marionette	INFO	Stopped listening on port 36841

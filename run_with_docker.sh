@@ -1,0 +1,1 @@
+sudo docker run -d zuptest cd $HOME/Documents/zuptest && python3.8 -m main.py
