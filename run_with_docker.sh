@@ -1,1 +1,1 @@
-sudo docker run -d zuptest cd $HOME/Documents/zuptest && python3.8 -m main.py
+sudo docker run -it zuptest bash -c "cd /root/Documents/zuptest && python3.8 main.py"

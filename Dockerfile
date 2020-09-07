@@ -11,7 +11,7 @@ RUN apt-get install -y tar build-essential \
     zlib1g-dev libncurses5-dev libgdbm-dev \
     libnss3-dev libssl-dev libsqlite3-dev \
     libreadline-dev libffi-dev curl libbz2-dev \
-    git chromium chromium-l10n firefox-esr
+    git chromium chromium-l10n firefox-esr xvfb
 
 # Instala o Python 3.8
 RUN mkdir $HOME/Downloads
